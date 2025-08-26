@@ -2,7 +2,7 @@
 <h3 align="center">An indie student of Computer Science</h3>
 
 # 💫 About Me:
-🔥 Indie Mathematician in progress from zero to hero<br>🎓 I'm currently studying Computer Engineering at the UAM (Universidad Autónoma Metropolitana), México<br>🍕 Currently learning about IA, ML, DL and their aplications in Software Engineering!<br>👩‍🚀 Currently learning English (A2)<br>📫 Reach me in lriverac@gmail.com
+🔥 Indie Mathematician in progress from zero to hero<br>🎓 I'm currently studying Computer Engineering at the UAM (Universidad Autónoma Metropolitana), México<br>🍕 Currently learning about IA, ML, DL and their aplications in Software Engineering!<br>👩‍🚀 Currently learning English (A2)<br>📫 Reach me in lriverac1999@gmail.com
 
 
 ## 🌐 Socials:
